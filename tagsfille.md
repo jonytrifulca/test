@@ -1,9 +1,2 @@
-ayaysdafsadf
-
-mas cambios por universo 3
-
-
-sdfsafd
-
-
+3lineas borradas en la rama nuevarama
 master sigue avanzando por aki
