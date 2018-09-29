@@ -10,4 +10,8 @@ por mimareee me va a matar!!!
 todas estas lineas estan siendo añadidas despues del commit
 inicial que hice al principio
 
-3)añado esta linea estando en staging area
+
+
+aporte desde el fork de jony2, he borra
+y he añadido estas dos lineas desde
+otra cuenta y tal
